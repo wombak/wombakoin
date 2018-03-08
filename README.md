@@ -1,2 +1,3 @@
-# wombakoin
-Wombakoin.
+# Wombakoin
+
+WIP
